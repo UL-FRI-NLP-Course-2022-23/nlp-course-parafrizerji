@@ -1,17 +1,13 @@
 # Opis programov
 PrevajanjePrimeri.ipynb
-
-Primeri prevajanja stavkov
+- Primeri prevajanja stavkov
 
 Branje.ipynb
-
-Branje stavkov iz baze GigaFida
+- Branje stavkov iz baze GigaFida
 
 Prevajanje.ipynb
-
-Prevajanje stavkov iz baze
+- Prevajanje stavkov iz baze
 
 ShranjevanjeExcel.ipynb
-
-Shranjevanje stavkov v Excel
+- Shranjevanje stavkov v Excel
 
