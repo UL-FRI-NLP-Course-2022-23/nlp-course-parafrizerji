@@ -8,10 +8,10 @@ Team members:
  * Grega Rovšček, gr57908@student.uni-lj.si
  
 Our repository is divided into the following folders:
-- Code (our code used in project)
-- Reports (final report on project)
-- Results (all the results obtained by paraphrasing the sentences)
-- Database (sentences that we used for training and paraphrasing)
+- code (our code used in project)
+- report (final report on project)
+- results (all the results obtained by paraphrasing the sentences)
+- database (sentences that we used for training and paraphrasing)
 
 Models are available on link https://drive.google.com/drive/u/1/folders/1f0zVKhslcP72YnEIVydC55womiWyLMOy and are placed in separate folders. Name of each folder indicates the model, compiler and number of epochs used for training (T5_Clarin_50 means T5 model trained on sentences gained from Clarin translator trained on 50 epoch).
 
@@ -46,6 +46,7 @@ Dependencies:
 <br>
 
 **RESULST** <br>
+**results/model-outputs** <br>
 Results we obtained from paraphrasing with different translators and models. Names of the files indicatesmodel, compiler and number of epochs used for training (T5_Clarin_50 means T5 model trained on sentences gained from Clarin translator trained on 50 epoch).
 
 <br>
