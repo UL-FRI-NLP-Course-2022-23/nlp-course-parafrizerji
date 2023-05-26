@@ -1,12 +1,10 @@
 # Natural language processing course 2022/23: Paraphrasing sentences
 
+Group public acronym/name: `Parafrizerji`
 Team members:
  * Uroš Škrjanc, us1883@student.uni-lj.si
  * Jaka Mesarec, jm85537@student.uni-lj.si
  * Grega Rovšček, gr57908@student.uni-lj.si
-
-Group public acronym/name: `Parafrizerji`
- > This value will be used for publishing marks/scores. It will be known only to you and not you colleagues.
  
 Our repository is divided into the following folders:
 - Code (our code used in project)
