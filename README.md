@@ -21,7 +21,7 @@ ccGigafida corpus is available on link https://www.clarin.si/repository/xmlui/ha
 Clarin translator is available at link https://github.com/clarinsi/Slovene_NMT
 
 
-** CODE ** 
+**CODE** 
 **Translation.ipynb** <br>
 First connects to and creates folders on your Google Drive. After that you must manually load files of text corpus (ccGigafida or similar) in folder /NLPProject/corpus. Script then read all sentences from corpus, stores them on Google Drive and from that database selects certain number of sentences and sends them to translators (Clarin, Google Translator and Deepl Translator). If you want to use Clarin translator, you have to install it on local computer accordingly to the instructions on their web-site. After translation translated and untranslated sentences are stored separately and do not overlap. Finally you can export translated sentences to Excel file and edit them manually.
 
@@ -44,9 +44,11 @@ Dependencies:
 - accelerate
 - xformers
 
+<br>
 **RESULST**
 Results we obtained from paraphrasing with different translators and models. Names of the files indicatesmodel, compiler and number of epochs used for training (T5_Clarin_50 means T5 model trained on sentences gained from Clarin translator trained on 50 epoch).
 
+<br>
 **DATABASE**
 ClarinTrening.xlsx, DeeplTrening.xlsx and GoogleTrening.xlsx are files for training models. Each file contains sentences translated with different translator (Clarin, Deepl, Google Translate) 
 
