@@ -1,4 +1,4 @@
-# Opis programov
+# CODE 
 **Translation.ipynb** <br>
 First connects to and creates folders on your Google Drive. After that you must manually load files of text corpus (ccGigafida or similar) in folder /NLPProject/corpus. Script then read all sentences from corpus, stores them on Google Drive and from that database selects certain number of sentences and sends them to translators (Clarin, Google Translator and Deepl Translator). If you want to use Clarin translator, you have to install it on local computer accordingly to the instructions on their web-site. After translation translated and untranslated sentences are stored separately and do not overlap. Finally you can export translated sentences to Excel file and edit them manually.
 
