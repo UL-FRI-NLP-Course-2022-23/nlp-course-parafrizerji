@@ -45,10 +45,12 @@ Dependencies:
 - xformers
 
 <br>
+
 **RESULST**
 Results we obtained from paraphrasing with different translators and models. Names of the files indicatesmodel, compiler and number of epochs used for training (T5_Clarin_50 means T5 model trained on sentences gained from Clarin translator trained on 50 epoch).
 
 <br>
+
 **DATABASE**
 ClarinTrening.xlsx, DeeplTrening.xlsx and GoogleTrening.xlsx are files for training models. Each file contains sentences translated with different translator (Clarin, Deepl, Google Translate) 
 
