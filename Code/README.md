@@ -7,7 +7,7 @@ Scripts are used to train models. Before training models sentences for training 
 
 **T5_Test.ipynb and GPT_Test.ipynb** <br>
 Scripts are used for geerating paraphrases from selected sentences. Sentences must be placed in directory /NLPProject/paraphrasing and must be structured like TestSentences.xlsx file on repository. Model must be manually uploaded in /NLPProject/paraphrasing/model directory. Results are then stored in Paraphrases.xlsx file in /NLPProject/paraphrasing directory.
-<br>
+<br><br>
 Dependencies:
 - deepl
 - googletrans==4.0.0rc1
